@@ -1,4 +1,4 @@
-import PropTypes from 'prop-types';
+import PropTypes from "prop-types";
 
 const Singletestimonial = ({ element }) => {
   return (
@@ -20,11 +20,11 @@ const Singletestimonial = ({ element }) => {
         </div>
       </div>
     </div>
-  )
-}
+  );
+};
 
 Singletestimonial.propTypes = {
-  element: PropTypes.object
-}
+  element: PropTypes.object,
+};
 
-export default Singletestimonial
+export default Singletestimonial;

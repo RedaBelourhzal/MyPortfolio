@@ -1,36 +1,33 @@
 {
   "headerData": {
-    "logoDark": "/images/logo.svg",
+    "logoDark": "/images/REDA.svg",
     "logoLight": "/images/logo-light.svg"
   },
   "heroData": {
     "title": "My name<br />is <b>REDA</b> <span><br />BELOURHZAL...</span>",
     "subTitle": "<span>Web Developer</span> based in <span>MOROCCO</span>",
-    "ImgLink": "/images/home-banner.png",
+    "ImgLink": "/images/p2portfolio.png",
     "phone": "+212 69 525 1396",
     "email": "redabelrzal@gmail.com",
     "btnText": "Work with me",
     "socialData": [
       {
-        "link": "",
+        "link": "https://github.com/RedaBelourhzal",
         "icon": "github"
       },
       {
-        "link": "",
+        "link": "https://www.linkedin.com/in/reda-belourhzal/",
         "icon": "linkedin"
-      },
-      {
-        "link": "",
-        "icon": "facebook"
       }
+    
     ]
   },
   "aboutData": {
     "aboutLeft": {
-      "ImgLink": "/images/about-banner.png",
+      "ImgLink": "/images/p1portfolio.png",
       "name": "Reda Belourhzal",
       "designation": "Web Developer <span>based in</span> Morocco",
-      "resumeCv": "/Resume.pdf"
+      "resumeCv": "/CV_Reda_Belourhzal.pdf"
     },
     "aboutRight": {
       "aboutText": "Born in 2000, living in Morocco. We provide on-screen design for websites and apps, as well as front-end implementation. We will continue to pursue a wide range of expressions and better code by pursuing our “likes”.",
@@ -54,40 +51,29 @@
       ],
       "archivement": [
         {
-          "number": "2+",
+          "number": "1+",
           "meta": "Years <br /> experience...",
           "text": "Hello there! My name is <span>Reda Belourhzal</span>. I am a web developer, and Im very passionate and dedicated to my work."
-        },
-        {
-          "number": "50+",
-          "meta": "Clients <br /> Worldwide...",
-          "text": "With 2+ years experience as a professional developer, I have acquired the skills to make your project a success."
         }
       ],
-      "note": "“Lorem ipsum dolor sit amet, consectetur adipiscing elit. Faucibus sed sit ultrices et sed metus sollicitudin.”"
+      "note": "“Web developer passionate about creating user-friendly websites with clean code. Let's build something great together! 👩‍💻🚀”"
     }
   },
   "experienceData": {
     "text": "Hello there! My name is REDA BELOURHZAL. I am a web developer, and Im very passionate and dedicated to my work.",
-    "resumeCv": "/Resume.pdf",
+    "resumeCv": "/CV_Reda_Belourhzal.pdf",
     "experience": [
       {
-        "start": "2020",
-        "end": "Present",
-        "title": "LEAD UI/UX DESIGNER",
-        "subtitle": "UI/UX Lead"
+        "start": "August 2023",
+        "end": "October 2023",
+        "title": "Web Developer",
+        "subtitle": "Coding Tech  - Digital Academy"
       },
       {
-        "start": "2017",
-        "end": "2018",
-        "title": "SENIOR UI/UX DESIGNER",
-        "subtitle": "UI/UX Designer"
-      },
-      {
-        "start": "2015",
-        "end": "2017",
-        "title": "WEB DESIGN AND DEVELOPER",
-        "subtitle": "Jr. UI/UX Designer"
+        "start": "March 2023",
+        "end": "June 2023",
+        "title": "Web Developer",
+        "subtitle": "Brighten Consulting Web Agency"
       }
     ]
   },
@@ -96,29 +82,15 @@
       "title": "Web Developement",
       "heading": "Perspiciatis vero deleniti dolor assumenda voluptatum animi",
       "triger": "One",
-      "imgLink": "/images/services-1.jpg",
-      "text": "Perspiciatis vero deleniti dolor assumenda voluptatum animi ut repellendus sit dolorem asperiores! Porro ullam pariatur neque beatae. Suscipit veniam fugiat vero, dolores perspiciatis asperiores, labore aspernatur quis enim ex quibusdam laboriosam ipsam qui ullam nulla iusto blanditiis praesentium fugit quo officiis doloremque provident! Dignissimos praesentium alias aliquid fugiat nihil tenetur itaque perspiciatis."
-    },   
-    {
-      "title": "Mobile Application",
-      "heading": "Neque quo numquam consequuntur odio porro quidem soluta amet eveniet. Similique eum cupiditate repellat ipsa.",
-      "triger": "Two",
-      "imgLink": "/images/services-3.jpg",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente nulla repellendus consequuntur! Ipsa perferendis explicabo reiciendis, quos sint nobis praesentium officia consequuntur! Ullam maxime, provident placeat nesciunt eius distinctio ipsam modi vel nam iste ea neque quo numquam consequuntur odio porro quidem soluta amet eveniet. Similique eum cupiditate repellat ipsa."
-    },
-    {
-      "title": "User Research",
-      "heading": "Sint, mollitia accusamus odit inventore, veritatis eos repellendus nihil voluptates voluptatibus adipisci",
-      "triger": "Three",
-      "imgLink": "/images/services-4.jpg",
-      "text": "Sint, mollitia accusamus odit inventore, veritatis eos repellendus nihil voluptates voluptatibus adipisci sequi exercitationem optio labore perferendis aliquid cupiditate, nesciunt doloremque? Quidem totam, quas neque repudiandae amet rem harum inventore quo! Fuga ad esse excepturi optio, sint cum laborum."
+      "imgLink": "/images/web-developments.webp",
+      "text": "Passionate about Web Development, I strive to create exceptional user experiences through clean and efficient code. I'm dedicated to building elegant and user-friendly websites. Let's work together to make the web better! 👩‍💻🚀"
     }
   ],
   "portfolioData": [
     {
       "ImgLink": "/images/services-1.jpg",
-      "subTitle": "UX case study",
-      "title": "Processor Research",
+      "subTitle": "ReactJs",
+      "title": "Cyrpto Currency",
       "link": "",
       "paragraphList": [
         {
@@ -137,8 +109,8 @@
     },
     {
       "ImgLink": "/images/services-2.jpg",
-      "subTitle": "UX case study",
-      "title": "Artificial Research",
+      "subTitle": "Spring Boot",
+      "title": "E-Shop",
       "link": "",
       "paragraphList": [
         {
@@ -157,8 +129,8 @@
     },
     {
       "ImgLink": "/images/services-3.jpg",
-      "subTitle": "UX case study",
-      "title": "Website Research",
+      "subTitle": "C# Ado.net",
+      "title": "Library Management System",
       "link": "",
       "paragraphList": [
         {
@@ -177,8 +149,8 @@
     },
     {
       "ImgLink": "/images/services-4.jpg",
-      "subTitle": "UX case study",
-      "title": "Robotics Research",
+      "subTitle": "PHP",
+      "title": "Bike Rental",
       "link": "",
       "paragraphList": [
         {
@@ -298,30 +270,7 @@
         ]
       },
       "info": [
-        {
-          "imgLink": "/images/avatar-1.jpg",
-          "name": "Ema Watson",
-          "designation": "Chief Executive Officer, Brazil",
-          "text": "File storage made easy – including powerful features you won’t find anywhere else. Whether          you’re."
-        },
-        {
-          "imgLink": "/images/avatar-2.jpg",
-          "name": "Ema Watson",
-          "designation": "Chief Executive Officer, Brazil",
-          "text": "File storage made easy – including powerful features you won’t find anywhere else. Whether          you’re."
-        },
-        {
-          "imgLink": "/images/avatar-1.jpg",
-          "name": "Ema Watson",
-          "designation": "Chief Executive Officer, Brazil",
-          "text": "File storage made easy – including powerful features you won’t find anywhere else. Whether          you’re."
-        },
-        {
-          "imgLink": "/images/avatar-2.jpg",
-          "name": "Ema Watson",
-          "designation": "Chief Executive Officer, Brazil",
-          "text": "File storage made easy – including powerful features you won’t find anywhere else. Whether          you’re."
-        }
+      
       ]
     },
     "brandInfo": {
@@ -350,24 +299,7 @@
         ]
       },
       "info": [
-        {
-          "imgLink": "/images/brand-1.png"
-        },
-        {
-          "imgLink": "/images/brand-2.png"
-        },
-        {
-          "imgLink": "/images/brand-3.png"
-        },
-        {
-          "imgLink": "/images/brand-4.png"
-        },
-        {
-          "imgLink": "/images/brand-1.png"
-        },
-        {
-          "imgLink": "/images/brand-2.png"
-        }
+       
       ]
     }
   },
@@ -376,18 +308,14 @@
       {
         "icon": "chat-left-dots-fill",
         "title": "Chat to us",
-        "text": "Our friendly team is there to help.",
-        "emailLink": "info@domainname.com"
+        "text": "Our freandly team is there to help.     ",
+        "emailLink": "redabelrzal@gmail.com"
       },
-      {
-        "icon": "compass",
-        "title": "Visit us",
-        "text": "Come say hello at ur office HQ. Warnwe Park Streetperrine, FL 33157 New York City"
-      },
+     
       {
         "icon": "phone",
         "title": "Call us",
-        "text": "Mon-Fri from 8am to 5pm. +01 (555) 000-0000"
+        "text": "Mon-Fri from 8am to 5pm. +212 695 25 13 96"
       }
     ],
     "contactForm": {
@@ -397,24 +325,21 @@
   },
   "footerData": {
     "ImgLink": "/images/about-banner.png",
-    "name": "lilon williamson"
+    "name": "Reda Belourhzal"
   },
   "socialData": [
     {
       "icon": "linkedin",
-      "link": ""
+      "link": "https://www.linkedin.com/in/reda-belourhzal/"
     },
-    {
-      "icon": "instagram",
-      "link": ""
-    },
+
     {
       "icon": "facebook",
-      "link": ""
+      "link": "https://web.facebook.com/reda.belrzal.90"
     },
     {
       "icon": "github",
-      "link": ""
+      "link": "https://github.com/RedaBelourhzal"
     }
   ]
 }

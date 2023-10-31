@@ -1,8 +1,8 @@
-import PropTypes from 'prop-types';
+import PropTypes from "prop-types";
 
 const Footer = ({ data }) => {
   const { ImgLink, name } = data;
-  const date = new Date;
+  const date = new Date();
   const currentYear = date.getFullYear();
 
   return (
@@ -14,13 +14,15 @@ const Footer = ({ data }) => {
           </div>
           <h6>{name}</h6>
         </div>
-        <p className="copyright">© {currentYear} copyright all right reserved</p>
+        <p className="copyright">
+          © {currentYear} copyright all right reserved
+        </p>
       </div>
     </footer>
-  )
-}
+  );
+};
 Footer.propTypes = {
-  data: PropTypes.object
-}
+  data: PropTypes.object,
+};
 
 export default Footer;

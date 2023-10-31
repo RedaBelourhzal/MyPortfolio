@@ -95,7 +95,7 @@ const Contact = ({ data }) => {
               >
                 <div className="ratio ratio-21x9">
                   <iframe
-                    src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3151.840107317064!2d144.955925!3d-37.817214!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb6899234e561db11!2sEnvato!5e0!3m2!1sen!2sin!4v1520156366883"
+                    src="https://www.google.com/maps/place/Casablanca/@33.5722875,-7.5869925,12z/data=!3m1!4b1!4m6!3m5!1s0xda7cd4778aa113b:0xb06c1d84f310fd3!8m2!3d33.5731104!4d-7.5898434!16zL20vMDIyYl8?entry=ttu"
                     allowFullScreen=""
                   />
                 </div>
